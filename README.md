@@ -27,6 +27,10 @@ Following things are done:
 ## PART C. EXPLORATORY DATA ANALYSIS
 - Calculated percentage of jobs per category within each variable and also the average of target value (ie. avg_sal) per category
 - Plotted these values for different variables to understand relationship of various features with the target
+![alt text](https://github.com/ravigupta5/Data-Science-Jobs-Salary-Prediction/blob/master/avg_sal%20per%20Job_role%20and%20seniority.PNG?raw=true)
+![alt text](https://github.com/ravigupta5/Data-Science-Jobs-Salary-Prediction/blob/master/avg_sal%20per%20Job_role.PNG?raw=true)
+![alt text](https://github.com/ravigupta5/Data-Science-Jobs-Salary-Prediction/blob/master/Correlation_matrix.PNG?raw=true)
+
 ## PART D. FEATURE ENGINEERING
 - Applied mean-encoding to categorical features to obtain monotonic relationship between features and target
 ## PART E. MODEL BUILDING
